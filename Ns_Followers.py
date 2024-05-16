@@ -11,7 +11,7 @@ class Ns_Followers:
         self.requests=requests
         self.__AES_NoPadding = AES_CBC_NoPadding()
 
-        self.__userid='66453746526' #Enter UserID Here
+        self.__userid='582146218' #Enter UserID Here
         self.__username='' #Enter UserName Here
         self._session='66453746526%3AtvRu1jkd1c6pXY%3A4%3AAYea3ev5XY0f7scrPmdxxjqjQpYcxgH3EV3T9' #Enter SessionID Here
 
